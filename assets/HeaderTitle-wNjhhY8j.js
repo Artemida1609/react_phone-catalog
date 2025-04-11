@@ -1,0 +1,1 @@
+import{j as e}from"./index-DH_AN-nn.js";const a="_header_title_container_xg8mo_16",r="_header_title_xg8mo_16",t={header_title_container:a,header_title:r},i=()=>e.jsx("header",{className:`${t.header_title_container}`,children:e.jsx("h1",{className:`${t.header_title}`,children:"Product Catalog"})});export{i as default};
