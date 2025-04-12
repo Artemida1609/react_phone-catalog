@@ -1,1 +1,0 @@
-import{j as e}from"./index-BInaD62z.js";const a="_header_title_container_13xxn_16",r="_header_title_13xxn_16",t={header_title_container:a,header_title:r},_=()=>e.jsx("header",{className:`${t.header_title_container}`,children:e.jsx("h1",{className:`${t.header_title}`,children:"Product Catalog"})});export{_ as default};
