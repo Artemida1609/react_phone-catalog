@@ -1,0 +1,1 @@
+import{j as e}from"./index-Bl1YWzyI.js";const a="_header_title_container_1loz2_12",r="_header_title_1loz2_12",t={header_title_container:a,header_title:r},_=()=>e.jsx("header",{className:`${t.header_title_container}`,children:e.jsx("h1",{className:`${t.header_title}`,children:"Product Catalog"})});export{_ as default};
